@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58c5ef39fc6f5984cac62576154548e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftFist: {instanceID: 0}
+  - rightFist: {instanceID: 0}
+  - uppercutFist: {instanceID: 0}
+  - orientation: {instanceID: 0}
+  - deathCounterText: {fileID: 1347243917634911255, guid: 5be6b297e08b0de4b827e04e5c20e9a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
